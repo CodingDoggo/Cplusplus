@@ -1,4 +1,4 @@
-# Cplusplus
+# Split function
 -Improved split function
 -Added features:
 
